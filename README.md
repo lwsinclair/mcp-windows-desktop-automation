@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mario-andreschak-mcp-windows-desktop-automation-badge.png)](https://mseep.ai/app/mario-andreschak-mcp-windows-desktop-automation)
+
 # MCP Windows Desktop Automation
 
 A Model Context Protocol (MCP) server for Windows desktop automation using AutoIt.
